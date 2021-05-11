@@ -1,0 +1,10 @@
+Könyv 1 400
+Egér 23 560
+Monitor 3 318
+Zsebkendő 100 3.5
+Papír 4 10.7
+Szék 8 500
+Porszívó 12 199.99
+Terítő 6 12.67
+Telefon 45 299.99
+Toll 34 3.14
